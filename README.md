@@ -1,29 +1,9 @@
 # vue-runtime-compile-component
 
-## Project setup
-```
-npm install
-```
+This is a sample vue-runtime-compile-component project. you can see all steps here - [Vue runtime compile component](https://oneyedev.github.io/article?id=vue-runtime-compile-component)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Preview
+https://oneyedev.github.io/vue-runtime-compile-component
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+This project is released under MIT License. See [LICENSE](https://github.com/oneyedev/vue-runtime-compile-component/blob/master/LICENSE) file for details.
