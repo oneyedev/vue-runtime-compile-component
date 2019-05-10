@@ -30,7 +30,7 @@
 <script>
 import Vue from 'vue'
 import PrismEditor from 'vue-prism-editor'
-import alertBtn from '@/assets/alertButton'
+import alertBtn from '@/assets/alert-button'
 export default {
   components: {PrismEditor},
   data: () => ({
