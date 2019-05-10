@@ -34,7 +34,6 @@ import alertBtn from '@/assets/alert-button'
 export default {
   components: {PrismEditor},
   data: () => ({
-    active: null,
     template: alertBtn.template,
     script: alertBtn.script,
     css: alertBtn.css,
